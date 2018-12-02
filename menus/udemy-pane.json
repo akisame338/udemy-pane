@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle udemy-pane",
+        "command": "udemy-pane:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "udemy-pane",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "udemy-pane:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
