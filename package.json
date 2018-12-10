@@ -6,7 +6,10 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "udemy-pane:toggle"
+    "atom-workspace": [
+      "udemy-pane:toggle",
+      "udemy-pane:search"
+    ]
   },
   "repository": "https://github.com/atom/udemy-pane",
   "license": "MIT",
