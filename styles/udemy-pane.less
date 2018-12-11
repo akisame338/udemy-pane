@@ -4,6 +4,19 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
+@pane-min-width: 520px;
+@resize-handle-width: 4px;
+
 .udemy-pane {
-    min-width: 516px;
+    min-width: @pane-min-width;
+    display: flex;
+
+    .udemy-pane-main {
+        min-width: @pane-min-width - @resize-handle-width;
+    }
+
+    .udemy-resize-handle {
+        width: @resize-handle-width;
+        cursor: col-resize;
+    }
 }
