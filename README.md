@@ -1,5 +1,29 @@
-# udemy-pane package
+# Udemy Pane
 
-A short description of your package.
+*Udemy Pane* is a package for Atom, which shows [Udemy](https://www.udemy.com/) site on the left side pane. This package is inspired by [Dotinstall Pane](https://atom.io/packages/dotinstall-pane).
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Commands
+
+### udemy-pane:toggle
+
+- Show/Hide the Udemy Pane.
+
+![screenshot of udemy-pane:toggle](https://user-images.githubusercontent.com/22640711/50053444-7b6daf80-0178-11e9-8cf7-edc179d17c35.gif)
+
+- The pane is resizable.
+
+### udemy-pane:search
+
+- Search for courses on udemy by selected text in the editor.
+
+![screenshot of udemy-pane:search](https://user-images.githubusercontent.com/22640711/50053463-edde8f80-0178-11e9-908c-16702d80ff3d.gif)
+
+## Installation
+
+Run the following command:
+
+```console
+apm install udemy-pane
+```
+
+Or find the package in **Atom** -> **Preferences** -> **Install** and search for "udemy-pane".

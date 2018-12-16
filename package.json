@@ -2,8 +2,10 @@
   "name": "udemy-pane",
   "main": "./lib/udemy-pane",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Show Udemy on the left side pane",
   "keywords": [
+    "udemy",
+    "programming"
   ],
   "activationCommands": {
     "atom-workspace": [
@@ -11,7 +13,7 @@
       "udemy-pane:search"
     ]
   },
-  "repository": "https://github.com/atom/udemy-pane",
+  "repository": "https://github.com/akisame338/udemy-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
