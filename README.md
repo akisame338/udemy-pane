@@ -1,6 +1,10 @@
 # Udemy Pane
 
-*Udemy Pane* is a package for Atom, which shows [Udemy](https://www.udemy.com/) site on the left side pane. This package is inspired by [Dotinstall Pane](https://atom.io/packages/dotinstall-pane).
+*Udemy Pane* is a package for Atom, which shows [Udemy](https://www.udemy.com/) site on the left side pane.
+
+![screenshot of udemy-pane](https://user-images.githubusercontent.com/22640711/50641079-2e783e80-0faa-11e9-876f-66cf31654951.png)
+
+This package is inspired by [Dotinstall Pane](https://atom.io/packages/dotinstall-pane).
 
 ## Commands
 
