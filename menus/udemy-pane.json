@@ -12,11 +12,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "udemy-pane",
+          "label": "Udemy Pane",
           "submenu": [
             {
               "label": "Toggle",
               "command": "udemy-pane:toggle"
+            },
+            {
+              "label": "Search",
+              "command": "udemy-pane:search"
             }
           ]
         }
