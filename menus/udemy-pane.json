@@ -2,8 +2,17 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle udemy-pane",
-        "command": "udemy-pane:toggle"
+        "label": "Udemy Pane",
+        "submenu": [
+          {
+            "label": "Toggle",
+            "command": "udemy-pane:toggle"
+          },
+          {
+            "label": "Search",
+            "command": "udemy-pane:search"
+          }
+        ]
       }
     ]
   },
