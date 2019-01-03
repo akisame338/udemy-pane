@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "udemy-pane:toggle"
+    "ctrl-alt-t": "udemy-pane:toggle",
+    "ctrl-alt-s": "udemy-pane:search"
   }
 }
